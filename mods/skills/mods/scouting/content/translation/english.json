@@ -1,0 +1,5 @@
+{
+	"skill.core.scouting.description.advanced" : "{Advanced Scouting}\nAllows your hero to see 3 square further into the shroud and earn 1 mithril per day",
+	"skill.core.scouting.description.basic" : "{Basic Scouting}\nAllows your hero to see 1 square further into the shroud and earn 1 mithril per day",
+	"skill.core.scouting.description.expert" : "{Expert Scouting}\nAllows your hero to see 5 square further into the shroud and earn 1 mithril per day"
+}
